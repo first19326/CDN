@@ -995,7 +995,7 @@ function Base() {
                     appId          : window.config.Valine.appId,
                     appKey         : window.config.Valine.appKey,
                     placeholder    : window.config.Valine.placeholder,
-                    path           : window.location.pathname,
+                    path           : window.location.origin + window.location.pathname,
                     avatar         : window.config.Valine.avatar,
                     meta           : metaArr,
                     requiredFields : fieldArr,
