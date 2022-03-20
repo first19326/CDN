@@ -994,6 +994,7 @@ function Base() {
                     el             : window.config.Valine.el,
                     appId          : window.config.Valine.appId,
                     appKey         : window.config.Valine.appKey,
+                    serverURLs     : window.config.Valine.serverURLs,
                     placeholder    : window.config.Valine.placeholder,
                     path           : window.location.origin + window.location.pathname,
                     avatar         : window.config.Valine.avatar,
