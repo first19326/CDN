@@ -235,7 +235,6 @@
             NotoSansSC: '/font/NotoSansSC.css',
             NotoSerifSC: '/font/NotoSerifSC.css',
             Playball: '/font/Playball.css',
-            Poppins: '/font/Poppins.css',
             PTMono: '/font/PTMono.css',
             Roboto: '/font/Roboto.css',
             RobotoSlab: '/font/RobotoSlab.css',
